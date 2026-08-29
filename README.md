@@ -45,7 +45,7 @@ The Figma file contains the interactive team prototype. This repository focuses 
 
 ### Home Page
 
-<img src="assets/matchapp-home.svg" alt="MatchApp home page prototype" width="360">
+<img src="assets/home-page.svg" alt="MatchApp home page prototype" width="360">
 
 The home screen introduces MatchApp, provides a clear entry point into search, and establishes the app's navigation and visual identity.
 
