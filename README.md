@@ -41,13 +41,35 @@ Key interactions included:
 
 The Figma file contains the interactive team prototype. This repository focuses on documenting the project and clearly identifying my individual contribution.
 
-## Prototype Preview
+## Prototype Gallery
 
-### Home Page
+The screenshots below are original exported screens from the Figma prototype. The first screen highlights the entry point into my documented **Basic Search** flow. The remaining screens provide context for how that search experience connects to the broader team prototype.
+
+### Home Page - Task 1 Entry Point
 
 <img src="assets/HomePage.png" alt="Original MatchApp Figma home page prototype" width="532">
 
-The home screen introduces MatchApp, provides a clear entry point into search, and establishes the app's navigation and visual identity.
+The home screen introduces MatchApp, establishes the visual identity, and provides a clear **Start Searching** entry point into the Basic Search experience. The persistent bottom navigation also gives users quick access to major areas of the app.
+
+### Detailed Review - Task 2
+
+<img src="assets/Detailed%20Review.png" alt="MatchApp detailed review screen showing users who liked a profile" width="430">
+
+This screen supports the **Detailed Review** workflow by presenting users who have shown interest and providing direct access to individual profiles. The layout keeps the most important information easy to scan, including the profile image, name, age, and a clear **View Profile** action.
+
+### Match Profile and Communication
+
+<img src="assets/Detailed%20Review%202.png" alt="MatchApp profile and communication screen" width="430">
+
+This screen shows how profile review transitions into communication. After selecting a potential match, the user can move into a direct conversation experience using the message field or video-call control while keeping the match identity visible at the top of the screen.
+
+### Get-to-Know-You Activities - Task 4
+
+<img src="assets/Get%20to%20know%20each%20other.png" alt="MatchApp get-to-know-you activities screen" width="430">
+
+The activity screen extends the experience beyond search and messaging with lightweight social interactions such as **Match Quiz**, **Guess What, Who, When?**, and **These Are My Favorite Things!**. These activities were designed to give matches additional ways to interact and learn about one another.
+
+> These additional screens represent the broader collaborative team prototype. My documented individual focus for Project 4 remained **Task 1: Basic Search**.
 
 ## Task 1 Flow
 
@@ -67,6 +89,8 @@ The Task 1 prototype used several common mobile interaction patterns:
 - **Loading feedback** to communicate system status
 - **Filtering and sorting** for refining search results
 - **Consistent navigation** across the mobile experience
+
+Across the broader team prototype, the interface also used profile lists, direct messaging, video communication controls, persistent bottom navigation, and activity-based interactions to create a connected end-to-end experience.
 
 ## User Study
 
@@ -114,7 +138,10 @@ Feedback related to Basic Search included:
 | `README.md` | Portfolio-oriented overview of the MatchApp project |
 | `PROJECT_INFO.md` | Course, team, Figma link, and contribution information |
 | `prototype/FIGMA_LINK.md` | Direct link and notes for the interactive Figma prototype |
-| `assets/` | Portfolio preview visuals used in this README |
+| `assets/HomePage.png` | Original Figma home screen / Task 1 entry point |
+| `assets/Detailed Review.png` | Detailed Review prototype screen |
+| `assets/Detailed Review 2.png` | Match profile / communication prototype screen |
+| `assets/Get to know each other.png` | Get-to-Know-You Activities prototype screen |
 
 ## Team
 
